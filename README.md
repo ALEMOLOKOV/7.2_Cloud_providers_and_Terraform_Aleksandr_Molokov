@@ -11,3 +11,11 @@
 
 ##ОТВЕТ
 
+Зарегистрировал аккаунт на yandex-cloud
+
+![Задание 1](https://user-images.githubusercontent.com/109212419/207437794-1241a98b-c339-415e-9d40-502367d81622.jpg)
+
+![Задание 1 yc](https://user-images.githubusercontent.com/109212419/207437830-dfc07ba8-9037-4e7b-8fcd-5e650ea073e5.jpg)
+
+
+
