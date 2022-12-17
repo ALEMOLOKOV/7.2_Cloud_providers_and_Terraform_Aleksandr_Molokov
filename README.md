@@ -19,6 +19,31 @@
 
 ![yc config list](https://user-images.githubusercontent.com/109212419/208230630-edd58e78-c3aa-478e-9bdc-2bcc86cc210e.jpg)
 
+## Задача 2 Развертывание ВМ при помощи Terraform
+
+Добавление токена через ENV переменную, проверка на валидность и развертывание
+
+![экспорт токена и развертывание](https://user-images.githubusercontent.com/109212419/208231428-cfdaf2a8-e67b-4644-8ae6-a960195a0373.jpg)
+
+Terraform plan
+
+[teraform plan.txt](https://github.com/ALEMOLOKOV/7.2_Cloud_providers_and_Terraform_Aleksandr_Molokov/files/10251194/teraform.plan.txt)
+
+Terraform apply
+
+ВМ в Yandex_cloud
+
+![yandex_cloud_VM](https://user-images.githubusercontent.com/109212419/208232241-50b86e4d-4896-4f39-89db-ddaafe8131c2.jpg)
+
+
+
+
+
+
+
+
+
+
 
 
 
