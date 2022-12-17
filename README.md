@@ -27,6 +27,8 @@
 
 Terraform plan
 
+teraform plan.txt
+
 [teraform plan.txt](https://github.com/ALEMOLOKOV/7.2_Cloud_providers_and_Terraform_Aleksandr_Molokov/files/10251194/teraform.plan.txt)
 
 Terraform apply
