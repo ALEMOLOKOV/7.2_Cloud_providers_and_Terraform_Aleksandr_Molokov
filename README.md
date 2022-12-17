@@ -37,7 +37,9 @@ Terraform apply
 
 Terraform файлы
 
-main.tf
+[main.tf](https://github.com/ALEMOLOKOV/7.2_Cloud_providers_and_Terraform_Aleksandr_Molokov/blob/77cf5ec6fcc985d7c9e7b48146a79b8bdb402526/main.tf)
+[vars.tf]()
+[versions.tf]()
 
 
 
