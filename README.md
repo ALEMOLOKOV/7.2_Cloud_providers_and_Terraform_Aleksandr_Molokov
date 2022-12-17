@@ -17,5 +17,9 @@
 
 ![Задание 1 yc](https://user-images.githubusercontent.com/109212419/207437830-dfc07ba8-9037-4e7b-8fcd-5e650ea073e5.jpg)
 
+![yc config list](https://user-images.githubusercontent.com/109212419/208230630-edd58e78-c3aa-478e-9bdc-2bcc86cc210e.jpg)
+
+
+
 
 
