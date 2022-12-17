@@ -41,7 +41,10 @@ Terraform файлы
 
 [vars.tf](https://github.com/ALEMOLOKOV/7.2_Cloud_providers_and_Terraform_Aleksandr_Molokov/blob/d4c32d9b2ae0aa87e2317bace77128687514db12/vars.tf)
 
-[versions.tf]()
+[versions.tf](https://github.com/ALEMOLOKOV/7.2_Cloud_providers_and_Terraform_Aleksandr_Molokov/blob/bfc297b2d6f412229689a8236bb51552b3074577/versions.tf)
+
+
+#Создать свой образ ami можно при помощи Packer
 
 
 
