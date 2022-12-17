@@ -37,6 +37,8 @@ Terraform apply
 
 Terraform файлы
 
+main.tf
+
 
 
 
