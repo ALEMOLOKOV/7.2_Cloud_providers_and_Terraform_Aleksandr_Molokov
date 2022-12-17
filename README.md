@@ -35,6 +35,10 @@ Terraform apply
 
 ![yandex_cloud_VM](https://user-images.githubusercontent.com/109212419/208232241-50b86e4d-4896-4f39-89db-ddaafe8131c2.jpg)
 
+Terraform файлы
+
+
+
 
 
 
