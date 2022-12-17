@@ -27,7 +27,7 @@
 
 Terraform plan
 
-[Terraform plan](https://github.com/ALEMOLOKOV/7.2_Cloud_providers_and_Terraform_Aleksandr_Molokov/blob/63802ea3719d58882d374f423d1d9f2a2c6c1fe6/teraform%20plan.txt)
+[Terraform plan](https://github.com/ALEMOLOKOV/7.2_Cloud_providers_and_Terraform_Aleksandr_Molokov/blob/7f091d143397202274373dc1da7b84f746bf2e4c/teraform%20plan.txt)
 
 Terraform apply
 
